@@ -13,13 +13,6 @@
 
 
 
-
-
-
-// array ke from mein input jaata hai command line pein
-// let input = process.argv[2]
-// console.log(input)
-
 const fs = require('fs')
 const path = require('path')
 const helpObj = require('./commands/help')
